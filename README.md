@@ -5,12 +5,10 @@
 - Full scale applications and their environments
 - Clean Code practices
 
-
 ### 🌱 I’m currently learning 
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 <img align="left" alt="java" src="https://img.shields.io/badge/Micronaut%20-white?&style=for-the-badge&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
 <br>
 
 ### 👨🏽‍💻 I have previously worked on
