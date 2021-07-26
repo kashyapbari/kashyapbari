@@ -5,7 +5,6 @@
 - Full scale applications and their environments
 - Clean Code practices
 
-<br>
 
 ### 🌱 I’m currently learning 
 <img align="left" alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -22,7 +21,7 @@
 <br>
 
 ### 📫 How to reach me ...
-[<img align="left" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](kashyap.r.bari@gmail.com)
+[<img align="left" alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=kashyap.r.bari@gmail.com)
 [<img align="left" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kashyap-bari/)
 <!---
 kashyapbari/kashyapbari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
